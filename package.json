@@ -21,7 +21,7 @@
     "dotenv": "^16.0.2",
     "express-basic-auth": "^1.2.1",
     "helmet": "^6.0.0",
-    "mongoose": "^6.6.1",
+    "mongoose": "^6.11.3",
     "morgan": "^1.10.0"
   }
 }
