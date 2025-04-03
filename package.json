@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "agenda": "^4.3.0",
+    "agenda": "^4.4.0",
     "agendash": "^3.1.0",
     "api": "^5.0.0",
     "axios": "^0.30.0",
